@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="MyCustom\ImagePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MyCustom\MyDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyCustom\MyTable.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MyCustom\TransparentPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_DocGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_Ke.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_MayChieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_MayTinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_NhapMChieuMoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_NhapMTinhMoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_NhapSachMoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_NhapThietBiMoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_PhanSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_PhieuMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Component_PhieuTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\DlgSachDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Form_ThemPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\KhongGianGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_CheckInOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_ComponentPPhat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_Component_DSPPhat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_DocGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_MainMuonTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_MayChieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_MayTinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_NhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_PDatCho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_PhieuMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_PhieuPhat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_PhieuTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_Sach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_ThietBi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_TrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\Panel_TVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\PhieuNhapGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\PnQuanLyDatChoGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\PnQuanLyPhieuMuonGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\PnQuanLyPhieuTraGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\SignUpGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\DlgLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyThuQuan\GUI\TrangChuGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
